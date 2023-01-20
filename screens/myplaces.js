@@ -40,7 +40,6 @@ useEffect(() => {
   }
     return (
       <View>
-        <Text>Address must be written with a comma in between address and city. For example Mannerheimintie 1, Helsinki</Text>
   <Input placeholder='Type in adress' label='PLACEFINDER' onChangeText={place => setPlace(place)} value={place} />
     <Button buttonStyle={{backgroundColor: 'gray'}} raised icon={{name:'save', color:'white'}} onPress={saveItem} title="SAVE" />
     <FlatList
