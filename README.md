@@ -9,7 +9,7 @@ This project ulitizes the following technologies:
 - [React Native Elements](https://reactnativeelements.com/)
 - [React Navigation](https://reactnavigation.org/)
 
-<h2>Views<h2>
+<h2>Views</h2>
 
 <img src="./screenshots/MyPlaces.png" width="300">
 
